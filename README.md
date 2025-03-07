@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **shahdivy9@gmail.com**
 
-- 📄 Know about my experiences [I developed a functional library website capable of adding and removing books, as well as searching through the database.](I developed a functional library website capable of adding and removing books, as well as searching through the database.)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
