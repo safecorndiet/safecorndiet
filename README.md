@@ -36,9 +36,7 @@
 
 #### 🔧 Current Projects
 
-- **Interview Coder Toolkit (Electron + Vite)**  
-  A desktop assistant that captures screenshots and AI-enhances coding interviews  
-  → `electron`, `TypeScript`, `React`, `OpenAI`
+
 
 - **Prompt Engineering Notebook**  
   Building smart prompt chains and OpenAI workflows  
